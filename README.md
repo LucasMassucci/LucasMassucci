@@ -16,7 +16,7 @@
   <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMassucci&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=True"/>
   <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMassucci&layout=compact&langs_count=7&theme=nord&hide_border=True"/>
 </div>
-  
+
   <img align="center" width="10000" height="200" src="https://raw.githubusercontent.com/LucasMassucci/LucasMassucci/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 
 ##
@@ -35,21 +35,26 @@
 
 ##
  <h4> :bookmark: &nbsp; Frameworks:</h4>
-
   <div style="display: inline_block" <br />
     <img align="center" alt="Rafa-Js" height="30" width="100" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-    <img align="center" alt="Rafa-Js" height="30" width="100" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
-
-
-
+    <img align="center" alt="Rafa-Js" height="30" width="80" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+    <img align="center" alt="Rafa-Js" height="30" width="100" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+    <img align="center" alt="Rafa-Js" height="30" width="120" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
+  <br></div> 
+  
+   <h4> :bookmark: &nbsp; Orchestration, Transformation Streaming & Messaging t:</h4>
+  <div style="display: inline_block" <br />
+    <img align="center" alt="Rafa-HTML" height="30" width="80" src="https://user-images.githubusercontent.com/50713417/171963331-a4b294e6-22fb-4497-800e-586d7da39771.png">
+    <img align="center" alt="Rafa-HTML" height="30" width="80" src="https://user-images.githubusercontent.com/50713417/171963070-2aebe750-cafd-462a-b6ab-a8b9e1cad320.png">
+    <img align="center" alt="Rafa-HTML" height="30" width="100" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
   <br></div> 
 
  
- 
+
  ##
    <p><p>
   <div style="display: inline_block" <br />
-    <img align="center" alt="Rafa-Js" height="30" width="160" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
+  
     <img align="center" alt="Rafa-HTML" height="30" width="150" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <br></div> 
 
@@ -60,9 +65,9 @@
   
   <img align="center" alt="Rafa-Ts" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Rafa-React" height="30" width="50" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img align="center" alt="Rafa-HTML" height="30" width="70" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    <img align="center" alt="Rafa-HTML" height="30" width="70" src="https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533">
-      <img align="center" alt="Rafa-HTML" height="30" width="70" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img align="center" alt="Rafa-HTML" height="30" width="100" src="https://user-images.githubusercontent.com/50713417/171963331-a4b294e6-22fb-4497-800e-586d7da39771.png)">
+    <img align="center" alt="Rafa-HTML" height="30" width="80" src="https://user-images.githubusercontent.com/50713417/171963070-2aebe750-cafd-462a-b6ab-a8b9e1cad320.png">
+      <img fill="white" align="center" alt="Rafa-HTML" height="30" width="100" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> 
   
 </div>
   
