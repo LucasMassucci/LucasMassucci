@@ -41,7 +41,7 @@
   <img align="center" alt="Rafa-React" height="30" width="100" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
   <img align="center" alt="Rafa-React" height="30" width="100" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
   <img align="center" alt="Rafa-React" height="30" width="100" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white">
-  <img align="center" alt="Rafa-React" height="30" width="100" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+  <img align="center" alt="Rafa-React" height="30" width="100" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
 </div>
 
  <h4> :bookmark: &nbsp; Frameworks:</h4>
