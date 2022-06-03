@@ -4,8 +4,8 @@
   # Olá eu sou Lucas Massucci!
 <div align="center">
   <a href="https://github.com/LucasMassucci">
-  <img width="300" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMassucci&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=True"/>
-  <img width="300" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMassucci&layout=compact&langs_count=7&theme=nord&hide_border=True"/>
+  <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMassucci&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=True"/>
+  <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMassucci&layout=compact&langs_count=7&theme=nord&hide_border=True"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="100" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
