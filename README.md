@@ -63,18 +63,18 @@
 
 
 
-
+<h4> :bookmark: &nbsp; Stat Tools and Languages :</h4>
 <div><br>
-  
   <img align="center" alt="Rafa-Ts" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Rafa-Ts" height="30" width="100" src="https://user-images.githubusercontent.com/50713417/171965374-29d8bf1d-769d-4b8d-8c79-28ee9d2df04c.png">
   <img align="center" alt="Rafa-React" height="30" width="50" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img align="center" alt="Rafa-HTML" height="30" width="100" src="https://user-images.githubusercontent.com/50713417/171963331-a4b294e6-22fb-4497-800e-586d7da39771.png)">
-    <img align="center" alt="Rafa-HTML" height="30" width="80" src="https://user-images.githubusercontent.com/50713417/171963070-2aebe750-cafd-462a-b6ab-a8b9e1cad320.png">
-      <img fill="white" align="center" alt="Rafa-HTML" height="30" width="100" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> 
-  
-</div>
-  
+  <img align="center" alt="Rafa-React" height="30" width="100" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+  <img align="center" alt="Rafa-React" height="30" width="100" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  <img align="center" alt="Rafa-React" height="30" width="100" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white">
+  <img align="center" alt="Rafa-React" height="30" width="100" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+
+</div
+
+
 
  
 
