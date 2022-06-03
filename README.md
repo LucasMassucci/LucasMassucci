@@ -5,8 +5,9 @@
  
  <div> 
   <a href="https://www.linkedin.com/in/lucasmassucci" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/lucasmassucci" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
+  <a href="https://medium.com/@lucasmassucci" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send/?phone=5511996966879&text=Ol%C3%A1,+olhei+seu+perfil+no+GitHub,+podemos+conversar?&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  
   
  
   
@@ -15,6 +16,8 @@
   <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMassucci&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=True"/>
   <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMassucci&layout=compact&langs_count=7&theme=nord&hide_border=True"/>
 </div>
+  
+  <img align="center" width="10000" height="200" src="https://raw.githubusercontent.com/LucasMassucci/LucasMassucci/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 
 ##
   
@@ -43,7 +46,7 @@
   
 
  
-![github contribution grid snake animation](https://raw.githubusercontent.com/LucasMassucci/LucasMassucci/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/LucasMassucci/LucasMassucci/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 </div>
   <img align="center" width="10000" src="https://capsule-render.vercel.app/api?type=waving&color=4b7282&height=100&section=footer"/>
