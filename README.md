@@ -11,7 +11,7 @@
   
  
   
-<div align="center">
+<div align="center" >
   <a href="https://github.com/LucasMassucci">
   <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMassucci&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=True"/>
   <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMassucci&layout=compact&langs_count=7&theme=nord&hide_border=True"/>
@@ -21,9 +21,9 @@
 
 ##
   
-   <h3> :computer: &nbsp;about my system</h3>
+   <h3> :computer: &nbsp;about my system</h4>
   </div>
-<div <br>
+<div style="display: inline_block" <br  />
   <img align="center" alt="Rafa-Js" height="30" width="100" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img align="center" alt="Rafa-Js" height="30" width="165" src="https://img.shields.io/badge/9Gen-i7--9750H-0085ca?style=for-the-badge&logo=Intel">
   <img align="center" alt="Rafa-Js" height="30" width="165" src="https://img.shields.io/badge/RTX-2060_8GB-76B900?style=for-the-badge&logo=Nvidia">
@@ -32,10 +32,32 @@
   </div> 
 
 
+
 ##
- <h3> :wrench: &nbsp;Languages and Tools:</h3>
+ <h4> :bookmark: &nbsp; Frameworks:</h4>
+
+  <div style="display: inline_block" <br />
+    <img align="center" alt="Rafa-Js" height="30" width="100" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+    <img align="center" alt="Rafa-Js" height="30" width="100" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
+
+
+
+  <br></div> 
+
+ 
+ 
+ ##
+   <p><p>
+  <div style="display: inline_block" <br />
+    <img align="center" alt="Rafa-Js" height="30" width="160" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
+    <img align="center" alt="Rafa-HTML" height="30" width="150" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <br></div> 
+
+
+
+
 <div><br>
-  <img align="center" alt="Rafa-Js" height="30" width="100" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  
   <img align="center" alt="Rafa-Ts" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Rafa-React" height="30" width="50" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img align="center" alt="Rafa-HTML" height="30" width="70" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
