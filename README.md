@@ -41,11 +41,10 @@
   
 </div>
   
-  ##
+
  
 ![github contribution grid snake animation](https://raw.githubusercontent.com/LucasMassucci/LucasMassucci/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/LucasMassucci/LucasMassucci/output/github-contribution-grid-snake.svg#gh-light-mode-only)
- 
- 
+
 </div>
   <img align="center" width="10000" src="https://capsule-render.vercel.app/api?type=waving&color=4b7282&height=100&section=footer"/>
 </p>
