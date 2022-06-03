@@ -1,4 +1,7 @@
-## Olá eu sou Lucas Massucci!
+<p>
+  <img align="center" width="10000" src="https://capsule-render.vercel.app/api?text=&animation=fadeIn&type=waving&color=5890a8&height=100"/>
+
+  # Olá eu sou Lucas Massucci!
 <div align="center">
   <a href="https://github.com/LucasMassucci">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMassucci&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=True"/>
@@ -24,3 +27,5 @@
  
  
 </div>
+  <img align="center" width="10000" src="https://capsule-render.vercel.app/api?type=waving&color=4b7282&height=100&section=footer"/>
+</p>
