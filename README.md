@@ -34,6 +34,16 @@
 
 
 ##
+<h4> :bookmark: &nbsp; Stat Tools and Languages :</h4>
+<div>
+  <img align="center" alt="Rafa-Ts" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Rafa-React" height="30" width="50" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img align="center" alt="Rafa-React" height="30" width="100" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+  <img align="center" alt="Rafa-React" height="30" width="100" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  <img align="center" alt="Rafa-React" height="30" width="100" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white">
+  <img align="center" alt="Rafa-React" height="30" width="100" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+</div>
+
  <h4> :bookmark: &nbsp; Frameworks:</h4>
   <div style="display: inline_block" <br />
     <img align="center" alt="Rafa-Js" height="30" width="100" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
@@ -63,16 +73,7 @@
 
 
 
-<h4> :bookmark: &nbsp; Stat Tools and Languages :</h4>
-<div><br>
-  <img align="center" alt="Rafa-Ts" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Rafa-React" height="30" width="50" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img align="center" alt="Rafa-React" height="30" width="100" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-  <img align="center" alt="Rafa-React" height="30" width="100" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-  <img align="center" alt="Rafa-React" height="30" width="100" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white">
-  <img align="center" alt="Rafa-React" height="30" width="100" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
 
-</div
 
 
 
