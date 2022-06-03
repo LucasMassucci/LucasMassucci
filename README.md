@@ -42,11 +42,14 @@
     <img align="center" alt="Rafa-Js" height="30" width="120" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
   <br></div> 
   
-   <h4> :bookmark: &nbsp; Orchestration, Transformation Streaming & Messaging t:</h4>
-  <div style="display: inline_block" <br />
-    <img align="center" alt="Rafa-HTML" height="30" width="80" src="https://user-images.githubusercontent.com/50713417/171963331-a4b294e6-22fb-4497-800e-586d7da39771.png">
-    <img align="center" alt="Rafa-HTML" height="30" width="80" src="https://user-images.githubusercontent.com/50713417/171963070-2aebe750-cafd-462a-b6ab-a8b9e1cad320.png">
-    <img align="center" alt="Rafa-HTML" height="30" width="100" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
+   <h4> :bookmark: &nbsp; Orchestration, Transformation Streaming & Messaging :</h4>
+    <div style="display: inline_block" <br />
+      <img align="center" alt="Rafa-HTML" height="30" width="100" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
+      <img align="center" alt="Rafa-Ts" height="30" width="100" src="https://user-images.githubusercontent.com/50713417/171965374-29d8bf1d-769d-4b8d-8c79-28ee9d2df04c.png">
+      <img align="center" alt="Rafa-HTML" height="30" width="80" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=ffffff">
+      <img align="center" alt="Rafa-HTML" height="30" width="80" src="https://user-images.githubusercontent.com/50713417/171963331-a4b294e6-22fb-4497-800e-586d7da39771.png">
+      <img align="center" alt="Rafa-HTML" height="30" width="80" src="https://user-images.githubusercontent.com/50713417/171965532-d769da9f-fe8b-43d1-8905-4cddc8e09658.png">
+
   <br></div> 
 
  
@@ -64,6 +67,7 @@
 <div><br>
   
   <img align="center" alt="Rafa-Ts" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Rafa-Ts" height="30" width="100" src="https://user-images.githubusercontent.com/50713417/171965374-29d8bf1d-769d-4b8d-8c79-28ee9d2df04c.png">
   <img align="center" alt="Rafa-React" height="30" width="50" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img align="center" alt="Rafa-HTML" height="30" width="100" src="https://user-images.githubusercontent.com/50713417/171963331-a4b294e6-22fb-4497-800e-586d7da39771.png)">
     <img align="center" alt="Rafa-HTML" height="30" width="80" src="https://user-images.githubusercontent.com/50713417/171963070-2aebe750-cafd-462a-b6ab-a8b9e1cad320.png">
