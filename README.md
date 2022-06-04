@@ -7,8 +7,10 @@
   <a href="https://www.linkedin.com/in/lucasmassucci" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@lucasmassucci" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send/?phone=5511996966879&text=Ol%C3%A1,+olhei+seu+perfil+no+GitHub,+podemos+conversar?&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  
-  
+ <p><p>
+🏢 Currently working as a data scientist at Loft Group </br>
+🏫 On the way to graduate school</br>
+
  
   
 <div align="center" >
@@ -18,6 +20,13 @@
 </div>
 
   <img align="center" width="10000" height="200" src="https://raw.githubusercontent.com/LucasMassucci/LucasMassucci/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+  
+  ## a few repositories
+  <div> 
+    <a href="https://github.com/LucasMassucci/Covid19BRAGeoV1" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasMassucci&repo=Covid19BRAGeoV1&theme=nord" target="_blank"></a> 
+  
+  
+
 
 ##
   
