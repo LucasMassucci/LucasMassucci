@@ -25,7 +25,7 @@
   </div>
 <div style="display: inline_block" <br  />
   <img align="center" alt="Rafa-Js" height="30" width="100" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img align="center" alt="Rafa-Js" height="30" width="165" src="https://img.shields.io/badge/9Gen-i7--9750H-0085ca?style=for-the-badge&logo=Intel">
+  <img align="center" alt="Rafa-Js" height="30" width="130" src="https://img.shields.io/badge/I7-9750H-0085ca?style=for-the-badge&logo=Intel">
   <img align="center" alt="Rafa-Js" height="30" width="165" src="https://img.shields.io/badge/RTX-2060_8GB-76B900?style=for-the-badge&logo=Nvidia">
   <img align="center" alt="Rafa-Js" height="30" width="165" src="https://img.shields.io/badge/SSD_Evo-NVMe_250GB-1428A0?style=for-the-badge&logo=Samsung">
   <img align="center" alt="Rafa-Js" height="30" width="165" src="https://img.shields.io/badge/SSD_Evo-SATA_III_1TB-1428A0?style=for-the-badge&logo=Samsung">
@@ -76,8 +76,11 @@
       <img align="center" alt="Rafa-HTML" height="30" width="100" src="https://user-images.githubusercontent.com/50713417/171971825-28344c5f-b1b7-42c6-a759-1a36ecb1ef4e.png">
       <img align="center" alt="Rafa-HTML" height="30" width="100" src="https://user-images.githubusercontent.com/50713417/171971933-c1b5f324-89b3-4cb4-9929-4b132d35969d.png">
       <img align="center" alt="Rafa-HTML" height="30" width="100" src="https://user-images.githubusercontent.com/50713417/171971808-f64f1321-ac4e-4b9a-9033-99393e73fe85.png">
-      <img align="center" alt="Rafa-HTML" height="30" width="100" src="https://user-images.githubusercontent.com/50713417/171973183-82262234-dcc8-4e06-a5a6-eeb7d72145a7.png"> 
+      <img align="center" alt="Rafa-HTML" height="30" width="100" src="https://user-images.githubusercontent.com/50713417/171977668-fe4c9e69-ffe7-4fe7-a77e-69d781869a64.png">
+      <img align="center" alt="Rafa-HTML" height="30" width="120" src="https://user-images.githubusercontent.com/50713417/171973183-82262234-dcc8-4e06-a5a6-eeb7d72145a7.png"> 
       <br></div> 
+
+
 
  
 
@@ -101,8 +104,9 @@
     <img align="center" alt="Rafa-HTML" height="30" width="120" src="https://img.shields.io/badge/databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=ffffff">
   <br></div> 
 
-  <h4> :bookmark: &nbsp; Security:</h4>
+  <h4> :bookmark: &nbsp; Security & CI/CD:</h4>
        <img align="center" alt="Rafa-HTML" height="30" width="100" src="https://sonarcloud.io/images/project_badges/sonarcloud-white.svg">
+       <img align="center" alt="Rafa-HTML" height="30" width="120" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
 
        
  
