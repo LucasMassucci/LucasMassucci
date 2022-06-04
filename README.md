@@ -45,6 +45,7 @@
 ##
 <h4> :bookmark: &nbsp; Stat Tools and Languages :</h4>
 <div>
+  <img align="center" alt="Rafa-Ts" height="30" width="100" src="https://img.shields.io/badge/GNU%20Bash-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
   <img align="center" alt="Rafa-Ts" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Rafa-React" height="30" width="50" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img align="center" alt="Rafa-React" height="30" width="100" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
