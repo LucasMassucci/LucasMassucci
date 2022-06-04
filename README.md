@@ -91,8 +91,7 @@
        <img align="center" alt="Rafa-HTML" height="30" width="100" src="https://user-images.githubusercontent.com/50713417/171970079-f3012bf7-8050-4c71-8842-477804bb50ac.png">
        <img align="center" alt="Rafa-HTML" height="30" width="120" src="https://img.shields.io/badge/aws_lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=ffffff">
        
-       
-
+ 
 
    <h4> :bookmark: &nbsp; Development Environments & Data Platforms:</h4>
    <div style="display: inline_block" <br />
@@ -102,6 +101,10 @@
     <img align="center" alt="Rafa-HTML" height="30" width="120" src="https://img.shields.io/badge/databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=ffffff">
   <br></div> 
 
+  <h4> :bookmark: &nbsp; Security:</h4>
+       <img align="center" alt="Rafa-HTML" height="30" width="100" src="https://sonarcloud.io/images/project_badges/sonarcloud-white.svg">
+
+       
  
  
 
