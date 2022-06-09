@@ -20,6 +20,12 @@
 
   <img align="center" width="10000" height="200" src="https://raw.githubusercontent.com/LucasMassucci/LucasMassucci/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
   
+  ## a few articles
+  📕 [Por que um Delta Lake? e como escalar em conformidade com os órgãos regulatórios?](https://medium.com/@lucasmassucci/por-que-um-delta-lake-e-como-escalar-em-conformidade-com-os-%C3%B3rg%C3%A3os-regulat%C3%B3rios-2888c412052a)
+  
+  📕 [Governança, melhores práticas com Delta Lake](https://medium.com/@lucasmassucci/governan%C3%A7a-melhores-pr%C3%A1ticas-com-delta-lake-bcd8f686aeec)
+  
+  
   ## a few repositories
   <div> 
     <a href="https://github.com/LucasMassucci/Covid19BRAGeoV1" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasMassucci&repo=Covid19BRAGeoV1&theme=nord" target="_blank"></a> 
