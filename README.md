@@ -73,13 +73,11 @@
     <img align="center" alt="Rafa-Js" height="30" width="100" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
     <img align="center" alt="Rafa-Js" height="30" width="80" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
     <img align="center" alt="Rafa-Js" height="30" width="100" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-    <img align="center" alt="Rafa-Js" height="30" width="120" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
   <br></div> 
   
    <h4> :bookmark: &nbsp; Orchestration, Transformation, Migration, Streaming & Messaging:</h4>
     <div style="display: inline_block" <br />
       <img align="center" alt="Rafa-HTML" height="30" width="100" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
-      <img align="center" alt="Rafa-Ts" height="30" width="100" src="https://user-images.githubusercontent.com/50713417/171965374-29d8bf1d-769d-4b8d-8c79-28ee9d2df04c.png">
       <img align="center" alt="Rafa-HTML" height="30" width="80" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=ffffff">
       <img align="center" alt="Rafa-HTML" height="30" width="120" src="https://img.shields.io/badge/AMAZON_DMS-4053D6?style=for-the-badge&logo=Amazon%20DynamoDb&logoColor=white">
       <img align="center" alt="Rafa-HTML" height="30" width="80" src="https://user-images.githubusercontent.com/50713417/171963331-a4b294e6-22fb-4497-800e-586d7da39771.png">
@@ -91,7 +89,6 @@
       <img align="center" alt="Rafa-HTML" height="30" width="100" src="https://user-images.githubusercontent.com/50713417/171971825-28344c5f-b1b7-42c6-a759-1a36ecb1ef4e.png">
       <img align="center" alt="Rafa-HTML" height="30" width="100" src="https://user-images.githubusercontent.com/50713417/171971933-c1b5f324-89b3-4cb4-9929-4b132d35969d.png">
       <img align="center" alt="Rafa-HTML" height="30" width="100" src="https://user-images.githubusercontent.com/50713417/171971808-f64f1321-ac4e-4b9a-9033-99393e73fe85.png">
-      <img align="center" alt="Rafa-HTML" height="30" width="100" src="https://user-images.githubusercontent.com/50713417/171977668-fe4c9e69-ffe7-4fe7-a77e-69d781869a64.png">
       <img align="center" alt="Rafa-HTML" height="30" width="120" src="https://user-images.githubusercontent.com/50713417/171973183-82262234-dcc8-4e06-a5a6-eeb7d72145a7.png"> 
       <br></div> 
 
