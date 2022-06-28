@@ -113,7 +113,6 @@
     <img align="center" alt="Rafa-HTML" height="30" width="150" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img align="center" alt="Rafa-HTML" height="30" width="100" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
     <img align="center" alt="Rafa-HTML" height="30" width="120" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
-    <img align="center" alt="Rafa-HTML" height="30" width="120" src="https://img.shields.io/badge/databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=ffffff">
   <br></div> 
 
   <h4> :bookmark: &nbsp; Security & CI/CD:</h4>
