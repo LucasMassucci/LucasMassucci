@@ -11,14 +11,7 @@
 🏢 Currently working as a data scientist at Loft Group </br>
 
  
-  
-<div align="center" >
-  <a href="https://github.com/LucasMassucci">
-  <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMassucci&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=True"/>
-  <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMassucci&layout=compact&langs_count=7&theme=nord&hide_border=True"/>
-</div>
 
-  <img align="center" width="10000" height="200" src="https://raw.githubusercontent.com/LucasMassucci/LucasMassucci/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
   
   ## a few articles
   📕 [Por que um Delta Lake? e como escalar em conformidade com os órgãos regulatórios?](https://medium.com/@lucasmassucci/por-que-um-delta-lake-e-como-escalar-em-conformidade-com-os-%C3%B3rg%C3%A3os-regulat%C3%B3rios-2888c412052a)
